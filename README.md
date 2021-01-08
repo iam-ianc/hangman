@@ -6,6 +6,12 @@
 
 - Este game foi desenvolvido para suprir uma necessidade de um dos clientes para fixar o aprendizado em seu material didático.
 
+## 🎨 Preview
+
+| **Acerto** | **Erro** |
+|-----------------|----------------|
+| <img alt="GIF ganhando o jogo" title="#Win" src="./git/img-winner.gif" width="400px"/> | <img alt="GIF perdendo o jogo" title="#Game Over" src="./git/img-loser.gif" width="400px"/> |
+
 
 ## 🛠 Tecnologias
 
@@ -38,7 +44,7 @@ basta você acessar o arquivo index.html em qualquer editor de código de sua pr
 Para alterar o estilo SCSS:
 ```bash
 # Clone este repositório
-$ git clone https://github.com/iam-ianc/encript-rsa
+$ git clone https://github.com/iam-ianc/hangman
 
 # Acesse a pasta src do projeto no terminal/cmd
 $ cd hangman
