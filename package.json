@@ -1,0 +1,12 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node-sass --output-style=compressed --source-map true --source-map-embed true -r -w ./src/assets/scss/ -o ./src/assets/css/"
+  },
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
