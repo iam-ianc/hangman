@@ -10,7 +10,7 @@
 
 | **Acerto** | **Erro** |
 |-----------------|----------------|
-| <img alt="GIF ganhando o jogo" title="#Win" src="./git/img-winner.gif" width="400px"/> | <img alt="GIF perdendo o jogo" title="#Game Over" src="./git/img-loser.gif" width="400px"/> |
+| <img alt="GIF ganhando o jogo" title="#Win" src="./images_git/img-winner.gif" width="400px"/> | <img alt="GIF perdendo o jogo" title="#Game Over" src="./images_git/img-loser.gif" width="400px"/> |
 
 
 ## 🛠 Tecnologias
